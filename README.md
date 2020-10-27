@@ -9,7 +9,7 @@
 - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I am a cook
 
-![screenshot](\images\logoV2.png)
+![screenshot](./images/logoV2.png)
 
 ## Currently Working in :
 
