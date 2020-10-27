@@ -25,3 +25,5 @@ I am from Peru, currently studying to become a Web Developer.
 👤 **Heber Lazo**
 
 - GitHub: [@Wusinho](https://github.com/Wusinho)
+
+- Twitter: [@Wusinho](https://twitter.com/lazo_heber)
