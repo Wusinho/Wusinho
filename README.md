@@ -1,7 +1,7 @@
 # <h1> Hello World! </h1>
 
 <div align='center' style="color:#A8D145">
-  <p> My name is <strong>Heber</strong>, and I am a Full Stack Web <b>Developer / Cheff / Dad</b> interested in expanding my mind creating clean and innovative ways to code. If there's antyhing I've learned so far is, nothing is <strong> IMPOSIBLE! </strong> </p>
+  <p> My name is <strong>Heber</strong>, and I am a Full Stack Web <b>Developer / Cheff / Dad</b> interested in expanding my mind creating clean and innovative ways to code. If there's anything I've learned so far is, nothing is <strong> IMPOSIBLE! </strong> </p>
  
 </div>
 
