@@ -41,7 +41,9 @@
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=grey&color=A8D145)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=grey&color=A8D145)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=grey&color=A8D145)
-
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=grey&color=A8D145)
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=grey&color=A8D145)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=aws&logoColor=grey&color=A8D145)
 
 
   
