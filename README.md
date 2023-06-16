@@ -44,6 +44,9 @@
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=grey&color=A8D145)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=grey&color=A8D145)
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=aws&logoColor=grey&color=A8D145)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=sass&logoColor=grey&color=A8D145)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=grey&color=A8D145)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=grey&color=A8D145)
 
 
   
