@@ -1,8 +1,11 @@
 # <h1> Hello World! </h1>
 
 <div align='center' style="color:#A8D145">
-  <p> My name is <strong>Heber</strong>, and I am a Full Stack Web <b>Developer / Cheff / Dad</b> interested in expanding my mind creating clean and innovative ways to code. If there's anything I've learned so far is, nothing is <strong> IMPOSIBLE! </strong> </p>
- 
+  <p> I am an experienced software developer specializing in web development, particularly in Rails and React. With expertise in HTML5, CSS3/SCSS, JavaScript, React, Redux, and Ruby, I collaborate with diverse teams to deliver exceptional solutions.</p>
+ <p>My full-stack web development experience allows me to create dynamic and interactive applications. I follow industry best practices, utilizing pair programming and gitflow to ensure timely project delivery. </p>
+  <p> Continuous learning is my passion, as I actively seek knowledge and stay updated with the latest trends. I prioritize effective time management, open communication, and crafting engaging user experiences.</p>
+  <p>As a professional, I provide valuable code reviews and mentor junior developers. I thrive on challenges and contribute to team success. </p>
+  <p>In summary, I bring extensive experience and a passion for web development with Rails and React. My technical skills and commitment to excellence enable me to deliver projects on time, staying ahead in the industry. I am an adaptable and collaborative team player, dedicated to creating remarkable applications. </p>
 </div>
 
 <br>
