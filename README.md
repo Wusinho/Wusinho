@@ -1,6 +1,6 @@
 # <h1> Hello World! </h1>
 
-<div align='center' style="color:#A8D145" class='profile__information'>
+<div align='center' style="color:#A8D145" class='profile__container'>
   <p> I am an experienced, <strong>software developer</strong> specializing in <strong> web development</strong> , particularly in Rails and React. With expertise in <strong> HTML5, CSS3/SCSS, JavaScript, React, Redux, and Rails</strong>, I collaborate with diverse teams to deliver exceptional solutions.</p>
  <p>My full-stack web development experience allows me to create dynamic and interactive applications. I follow industry best practices, utilizing <strong>pair programming</strong> and <strong> gitflow</strong> to ensure timely project delivery. </p>
   <p> Continuous learning is my passion, as I actively seek knowledge and stay updated with the latest trends. I prioritize effective <strong>time management</strong>, open communication, and crafting engaging user experiences.</p>
