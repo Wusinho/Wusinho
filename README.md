@@ -14,13 +14,15 @@
 
 </div>
 
-<div align='center' class='languages__container'>
+<div align='center' class='shields__container'>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=A8D145)
-![](https://img.shields.io/badge/Ruby-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=A8D145)
-![](https://img.shields.io/badge/JS-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=A8D145)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=A8D145)
-![](https://img.shields.io/badge/Code-Html5-informational?style=flat&logo=html5&logoColor=white&color=A8D145)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=grey&color=A8D145)
+![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=grey&color=A8D145)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=grey&color=A8D145)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=grey&color=A8D145)
+![](https://img.shields.io/badge/Html5-informational?style=flat&logo=html5&logoColor=grey&color=A8D145)
+
+
 
 </div>
 
