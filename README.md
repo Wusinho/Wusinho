@@ -1,7 +1,10 @@
 # <h1> Hello World! </h1>
 
 <div align='center' style="color:#A8D145" class='profile__container'>
-<p>Former cheff turned <strong>software developer</strong> and <strong>entrepreneur</strong>. Successfully managed a catering business with a team under my <strong>leadership</strong> before transitioning into the world of software development. Proficient in <strong>Ruby on Rails</strong> and <strong>React </strong>, with experience as both a freelance developer and as part of professional teams. Passionate about leveraging technology to create <strong>innovative</strong> <strong>solutions</strong>. Let's collaborate and bring your ideas to life, transforming the impossible into achievable <strong>results</strong>.</p>
+<p>
+  Former cook turned <strong>software developer</strong> and <strong>entrepreneur</strong>. Led a successful catering business, showcasing my leadership skills. Transitioned to software development, specializing in <strong>Ruby on Rails</strong> and <strong>React</strong>. Experienced in freelancing and collaborating with professional teams. Passionate about leveraging technology to create innovative solutions. Let's collaborate and bring your ideas to life, turning the impossible into achievable results.
+</p>
+
 </div>
 
 <br>
