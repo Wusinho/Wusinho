@@ -15,7 +15,7 @@
 
 </div>
 
-<div align='center' class='shields__container'>
+<div align='center' class='languages__container'>
 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=grey&color=A8D145)
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=grey&color=A8D145)
@@ -33,7 +33,7 @@
 
 </div>
 
-<div align='center' class='shields__container'>
+<div align='center' class='tools__container'>
 
 ![](https://img.shields.io/badge/Rails-informational?style=flat&logo=ruby-on-rails&logoColor=grey&color=A8D145)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=grey&color=A8D145)
